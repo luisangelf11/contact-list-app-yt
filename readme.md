@@ -54,5 +54,5 @@ Recuerda crear los archivos .env tanto en el cliente como en el servidor.
 
 ### 3️⃣ Migrar la base de datos
 ```bash
-npx prisma migrate dev
+npx prisma db push
 ```
